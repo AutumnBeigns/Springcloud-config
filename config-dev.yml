@@ -1,3 +1,2 @@
 config:
-  info: "abcd"
-config: from main branch,springcloud-config/config.yml  version=1
+  info: "abcd" from main branch,springcloud-config/config.yml  version=1
